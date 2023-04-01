@@ -1,0 +1,13 @@
+.form__select {
+    width: 100%;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    display: none;
+  }
+  
+  .form__select option {
+    padding: 8px;
+    font-size: 14px;
+    border-bottom: 1px solid #ccc;
+  }
+  
