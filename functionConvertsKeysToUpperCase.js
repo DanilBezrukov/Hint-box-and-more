@@ -1,5 +1,4 @@
 function getObjKeysToUpperCase(obj) {
-  // console.log(Array.isArray(obj) , obj)
   // проверяем является ли передаваемый аргумент объектом 
   if (typeof obj !== 'object' || obj === null) return obj;
   // если передаваемый аргумент массив то рекурсией проверяем его значения
